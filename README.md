@@ -31,4 +31,4 @@ O(n^2)
 3. [2,3,4,5,7,9,8,15,6]
 4. [2,3,4,5,6,9,8,15,7]
 
-## [Patika.dev](https://app.patika.dev/ozkardes) profilime buradan ulaşabilirsiniz.
+## Patika.dev profilime [buradan](https://app.patika.dev/ozkardes) ulaşabilirsiniz.
