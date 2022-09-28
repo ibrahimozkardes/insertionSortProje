@@ -1,9 +1,11 @@
 # Insertion Sort Projesi
+
 [Patika.dev](https://app.patika.dev/), Veri Yapıları ve Algoritmalar dersinin son aşaması olan projeler kısmından Insertion Sort Projesi.
 
 ## [22,27,16,2,18,6] -> Insertion Sort
 
 ### 1) Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+
 1. [2,27,16,22,18,6]
 2. [2,6,16,22,18,27]
 3. [2,6,16,18,22,27]
@@ -28,3 +30,5 @@ O(n^2)
 2. [2,3,4,8,7,9,5,15,6]
 3. [2,3,4,5,7,9,8,15,6]
 4. [2,3,4,5,6,9,8,15,7]
+
+## [Patika.dev](https://app.patika.dev/ozkardes) profilime buradan ulaşabilirsiniz.
